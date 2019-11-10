@@ -2,4 +2,4 @@ print("Afternoon, everybody!")
 
 print("Hey Norm, What's up?")
 
-print("Not much")
+print("My cheeks on this bar stool")
